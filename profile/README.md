@@ -5,8 +5,12 @@ This course introduces the fundamental theories and advanced techniques of data 
  
 ## TextBook
 
-
 ## Assignment
+
+## Tools
+[SUSTechPOINTS](https://github.com/sustech-isus/SUSTechPOINTS)
+## Dataset
+
 
 
 ## Information
